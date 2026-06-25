@@ -67,5 +67,16 @@ SVM:
   gamma: scale
   kernel: linear
 
+<img width="818" height="597" alt="image" src="https://github.com/user-attachments/assets/a51e4529-0d49-47a2-a136-294152c412e8" />
 
-      
+Next steps would be to collect new real world data to test our models and to further improve the score.
+
+
+
+As for now I wouild recommend that the banks target people that have features with a strong correlation with the highest predictor being call duration.  Features like being employed, Retired/Management, and prior subcribers.
+
+
+
+
+<img width="1043" height="584" alt="image" src="https://github.com/user-attachments/assets/ca3a5f84-7769-47f3-84c7-dc8a25cc369e" />
+
